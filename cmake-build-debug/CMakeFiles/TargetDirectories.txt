@@ -1,7 +1,6 @@
-/Users/salahmezraoui/Documents/Workspace/Clion_ImageQuilting/cmake-build-debug/CMakeFiles/ImageQuilting_main.dir
-/Users/salahmezraoui/Documents/Workspace/Clion_ImageQuilting/cmake-build-debug/CMakeFiles/ImageQuilting_main2.dir
-/Users/salahmezraoui/Documents/Workspace/Clion_ImageQuilting/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/salahmezraoui/Documents/Workspace/Clion_ImageQuilting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/salahmezraoui/Documents/Workspace/Clion_ImageQuilting/cmake-build-debug/lib/my-utils/CMakeFiles/MyUtils.dir
-/Users/salahmezraoui/Documents/Workspace/Clion_ImageQuilting/cmake-build-debug/lib/my-utils/CMakeFiles/edit_cache.dir
-/Users/salahmezraoui/Documents/Workspace/Clion_ImageQuilting/cmake-build-debug/lib/my-utils/CMakeFiles/rebuild_cache.dir
+/Users/salahmezraoui/Documents/Projects/University/ImageQuilting/cmake-build-debug/CMakeFiles/ImageQuilting_main.dir
+/Users/salahmezraoui/Documents/Projects/University/ImageQuilting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/salahmezraoui/Documents/Projects/University/ImageQuilting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/salahmezraoui/Documents/Projects/University/ImageQuilting/cmake-build-debug/lib/my-utils/CMakeFiles/MyUtils.dir
+/Users/salahmezraoui/Documents/Projects/University/ImageQuilting/cmake-build-debug/lib/my-utils/CMakeFiles/edit_cache.dir
+/Users/salahmezraoui/Documents/Projects/University/ImageQuilting/cmake-build-debug/lib/my-utils/CMakeFiles/rebuild_cache.dir

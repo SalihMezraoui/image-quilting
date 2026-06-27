@@ -1,0 +1,11 @@
+# Build output (CLion / CMake)
+cmake-build-*/
+build/
+*.o
+*.obj
+
+# macOS
+.DS_Store
+
+# Generated textures (optional — remove if you want to track gallery outputs)
+out.png
