@@ -9,3 +9,4 @@ build/
 
 # Generated textures (optional — remove if you want to track gallery outputs)
 out.png
+cmake-build-*/
